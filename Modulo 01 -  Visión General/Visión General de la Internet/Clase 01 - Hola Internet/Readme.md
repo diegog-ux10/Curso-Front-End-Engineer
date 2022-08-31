@@ -13,3 +13,7 @@ En esta lección, aprenderá cómo funciona Internet entre bastidores. Después 
 - ¿Cómo se convierte el código en la experiencia que los usuarios ven en sus navegadores?
 - ¿Cómo ha cambiado la web y el desarrollo web desde su invención hasta la actualidad?
 - Al final de esta lección, tendrá el conocimiento que necesita para colaborar de manera más efectiva con los ingenieros y saltar a su propia carrera en desarrollo web.
+
+###### Ejercicios
+
+Consulte el gráfico en el enlace que muestra [la cantidad de sitios web en Internet]() desde el año 2000. Cuando esté listo, pasa la siguiente clase.
