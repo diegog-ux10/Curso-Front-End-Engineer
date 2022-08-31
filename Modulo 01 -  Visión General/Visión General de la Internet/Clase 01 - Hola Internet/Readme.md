@@ -16,4 +16,4 @@ En esta lección, aprenderá cómo funciona Internet entre bastidores. Después 
 
 ###### Ejercicios
 
-Consulte el gráfico en el enlace que muestra [la cantidad de sitios web en Internet]() desde el año 2000. Cuando esté listo, pasa la siguiente clase.
+Consulte el gráfico en el enlace que muestra [la cantidad de sitios web en Internet](https://github.com/diegog-ux10/Curso-Front-End-Engineer/blob/main/Modulo%2001%20-%20%20Visi%C3%B3n%20General/Visi%C3%B3n%20General%20de%20la%20Internet/Clase%2001%20-%20Hola%20Internet/total_number_of_websites%201.png) desde el año 2000. Cuando esté listo, pasa la siguiente clase.
