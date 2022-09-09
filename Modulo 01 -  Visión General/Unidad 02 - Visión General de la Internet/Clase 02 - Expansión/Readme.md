@@ -1,6 +1,7 @@
-> DESCRIPCIÓN GENERAL DE INTERNET
+> MODULO 01 - VISION GENERAL
+> UNIDAD 02 - VISION GENERAL DE LA INTERNET
 
-# ¡Hola, Internet!
+# La red en constante expansión
 
 Es casi imposible exagerar cuánto ha cambiado Internet la forma en que consumimos información y nos comunicamos entre nosotros. Más de cuatro mil millones de personas en todo el mundo son usuarios de Internet y el número total de sitios web en la red mundial se acerca a los dos mil millones.
 
