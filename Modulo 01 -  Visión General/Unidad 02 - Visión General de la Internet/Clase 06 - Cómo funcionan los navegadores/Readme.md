@@ -27,4 +27,4 @@ Por lo general, todos los recursos se muestran lo antes posible. El HTML se most
 
 ###### Ejercicios
 
-[La animación]() muestra los diferentes idiomas que trabajan juntos para mostrar una página web. Cuando esté listo, pase al siguiente ejercicio.
+[La animación](https://raw.githubusercontent.com/diegog-ux10/Curso-Front-End-Engineer/main/Modulo%2001%20-%20%20Visi%C3%B3n%20General/Unidad%2002%20-%20Visi%C3%B3n%20General%20de%20la%20Internet/Clase%2006%20-%20C%C3%B3mo%20funcionan%20los%20navegadores/html_css_js.webp) muestra los diferentes idiomas que trabajan juntos para mostrar una página web. Cuando esté listo, pase al siguiente ejercicio.
